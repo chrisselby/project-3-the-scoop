@@ -1,0 +1,18 @@
+users:
+  test@test.com:
+    username: test@test.com
+    articleIds:
+      - 1
+    commentIds: []
+articles:
+  '1':
+    id: 1
+    title: testing lol
+    url: 'http://test.com'
+    username: test@test.com
+    commentIds: []
+    upvotedBy: []
+    downvotedBy: []
+nextArticleId: 2
+comments: {}
+nextCommentId: 1
